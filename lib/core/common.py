@@ -1499,7 +1499,7 @@ def cleanReplaceUnicode(value):
 
 def setPaths(rootPath):
     """
-    Sets absolute paths for project directories and files
+    TODO: Sets absolute paths for project directories and files
     """
 
     paths.SQLMAP_ROOT_PATH = rootPath
